@@ -1,0 +1,33 @@
+2017-08-12 12:53:04,084  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good day, HelloWorld!
+2017-08-12 12:53:04,113  INFO [main] - HelloWorld.printLocal 104 - Добрый день, Мир! в 9.00 - 19.00
+2017-08-12 12:53:24,184  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good morning, HelloWorld!
+2017-08-12 12:53:24,194  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good morning, HelloWorld!
+2017-08-12 12:53:24,200  INFO [main] - HelloWorld.printLocal 104 - Good morning, HelloWorld! in 6.00 - 9.00
+2017-08-12 12:53:24,202  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good day, HelloWorld!
+2017-08-12 12:53:24,207  INFO [main] - HelloWorld.printLocal 104 - Добрый день, Мир! в 9.00 - 19.00
+2017-08-12 12:53:24,209  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good day, HelloWorld!
+2017-08-12 12:53:24,210  INFO [main] - HelloWorld.printLocal 104 - Good day, HelloWorld! in 9.00 - 19.00
+2017-08-12 12:53:24,211  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good night, HelloWorld!
+2017-08-12 12:53:24,211  INFO [main] - HelloWorld.printLocal 104 - Доброй ночи, Мир! в 23.00 - 6.00
+2017-08-12 12:53:24,217  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good night, HelloWorld!
+2017-08-12 12:53:24,220  INFO [main] - HelloWorld.printLocal 104 - Good night, HelloWorld! in 23.00 - 6.00
+2017-08-12 12:53:24,224  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good evening, HelloWorld!
+2017-08-12 12:53:24,225  INFO [main] - HelloWorld.printLocal 104 - Good evening, HelloWorld! in 19.00 - 23.00
+2017-08-12 12:53:24,226  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good morning, HelloWorld!
+2017-08-12 12:53:24,227  INFO [main] - HelloWorld.printLocal 104 - Доброе утро, Мир! в 6.00 - 9.00
+2017-08-12 12:53:24,228  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good day, HelloWorld!
+2017-08-12 12:53:24,237  INFO [main] - HelloWorld.printLocal 104 - Good day, HelloWorld! in 9.00 - 19.00
+2017-08-12 12:53:24,353  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good evening, HelloWorld!
+2017-08-12 12:53:24,354  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good evening, HelloWorld!
+2017-08-12 12:53:24,355  INFO [main] - HelloWorld.printLocal 104 - Добрый вечер, Мир! в 19.00 - 23.00
+2017-08-12 12:53:24,356  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good evening, HelloWorld!
+2017-08-12 12:53:24,360  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good day, HelloWorld!
+2017-08-12 12:53:24,361  INFO [main] - HelloWorld.printLocal 104 - Добрый день, Мир! в 9.00 - 19.00
+2017-08-12 12:53:24,362  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good night, HelloWorld!
+2017-08-12 12:53:24,363  INFO [main] - HelloWorld.printLocal 104 - Доброй ночи, Мир! в 23.00 - 6.00
+2017-08-12 12:53:24,365  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good day, HelloWorld!
+2017-08-12 12:53:24,365  INFO [main] - HelloWorld.printLocal 104 - Добрый день, Мир! в 9.00 - 19.00
+2017-08-12 12:53:24,371  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good night, HelloWorld!
+2017-08-12 12:53:24,371  INFO [main] - HelloWorld.printLocal 104 - Good night, HelloWorld! in 23.00 - 6.00
+2017-08-12 12:53:24,372  INFO [main] - HelloWorld.getWorld 89 - Create  -> Good night, HelloWorld!
+2017-08-12 12:53:24,373  INFO [main] - HelloWorld.printLocal 104 - Good night, HelloWorld! in 23.00 - 6.00

@@ -86,7 +86,7 @@ public class HelloWorld {
 
 
         }
-        log.info("Create  -> Good " + str + ", HelloWorld!");
+        log.info("Create  -> Good " + str + ", World!");
         return str;
     }
 
